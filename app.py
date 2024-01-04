@@ -19,7 +19,7 @@ def hello_view():
 
 
 @app.route('/book')
-def hello_view():
+def hello_book():
   return 'Hello, Books !'
 
 
